@@ -6,26 +6,26 @@
 
 2. [Download](https://download.jboss.org/drools/release/7.3.0.Final/drools-distribution-7.3.0.Final.zip) Drools and extract the zip archive to any folder.
 
-3.Install JBoss Tools 4.5.0
+3. Install JBoss Tools 4.5.0
 
 * Run Eclipse IDE.
 * Select Help > Eclipse Marketplace….
 * Install JBoss Tools 4.5.0.Final
     
-4.Install Drools:
+4. Install Drools:
 
 * Select Help > Install New Software….
 * In the Work with: combo box type: http://download.jboss.org/drools/release/7.3.0.Final/org.drools.updatesite/
 * Click Select all.
 * Make sure the checkbox “Contact all update sites during install to find required software” is checked.
 
-5.Create Drools Runtime:
+5. Create Drools Runtime:
 
 * Select Window > Preferences > Drools > Installed Drools Runtime > Add… .
 * Choose any name and select the folder binaries of the drools archive, you have installed in Step 2. The version is determined automatically.
 * Click OK > Apply and Close
 
-6.Create Test Project
+6. Create Test Project
 
 * In Eclipse switch to the Drools perspective (upper right corner).
 * Choose File > New > Drools Project
